@@ -1,0 +1,28 @@
+# Python caches/bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling/editor/system files
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime/log files
+*.log
+
+# Model/checkpoint artifacts
+*.pt
+*.pth
+
+# Generated Sleeper exports (large, reproducible artifacts)
+sleeper_exports/*
+!sleeper_exports/.gitkeep
+
+# Local archive/reference code
+old/
+

@@ -16,17 +16,13 @@ _model: MLPScorer | None = None
 _device: torch.device | None = None
 
 
+# Load cached Sleeper players directory used for names/positions metadata.
 def load_players_map() -> Dict[str, Any]:
     return load_json(EXPORTS / "players_nfl.json")
 
 
 def _load_stats_weekly_with_fallback(season: int) -> Dict[str, Any]:
-    """
-    Load weekly stats for risk computation.
-
-    For preseason / early-season years (e.g. 2026), stats may be missing or empty.
-    In that case, fall back to previous season stats for risk only.
-    """
+    # Load weekly stats for risk computation with previous-season fallback.
     current_path = EXPORTS / f"stats_weekly_{season}_players_500.json"
     if current_path.exists():
         data = load_json(current_path)
@@ -42,6 +38,7 @@ def _load_stats_weekly_with_fallback(season: int) -> Dict[str, Any]:
     return {}
 
 
+# Load candidate universe for a season using local projections/selected files.
 def load_universe(season: int, top_n: int, settings: LeagueSettings) -> Dict[str, Player]:
     players = load_json(EXPORTS / "players_nfl.json")
     proj_rows = load_json(EXPORTS / f"projections_{season}_week1.json")
@@ -79,6 +76,7 @@ def load_universe(season: int, top_n: int, settings: LeagueSettings) -> Dict[str
     return universe
 
 
+# Lazily load and cache model checkpoint once per server process.
 def ensure_model_loaded(model_path: Path | None = None) -> Tuple[MLPScorer, torch.device]:
     global _model, _device
     if _model is not None and _device is not None:
@@ -96,6 +94,7 @@ def ensure_model_loaded(model_path: Path | None = None) -> Tuple[MLPScorer, torc
     return m, device
 
 
+# Score available candidates and return top-N recommendation rows.
 def recommend_top(
     state,
     user_team_idx: int,

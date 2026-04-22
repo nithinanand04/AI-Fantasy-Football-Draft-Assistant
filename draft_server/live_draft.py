@@ -8,6 +8,7 @@ from typing import Any, Dict, List, Tuple
 from data_scripts.label_data import DraftState, LeagueSettings, Player
 
 
+# Extract ordered round-1 roster ids from Sleeper draft_order format.
 def _round1_roster_ids(draft: Dict[str, Any]) -> List[str]:
     raw = draft.get("draft_order")
     if isinstance(raw, list):
@@ -25,6 +26,7 @@ def _round1_roster_ids(draft: Dict[str, Any]) -> List[str]:
     return []
 
 
+# Build full snake draft pick order from round-1 team index order.
 def _snake_order(round1: List[int], rounds: int) -> List[int]:
     order: List[int] = []
     for r in range(rounds):
@@ -33,13 +35,14 @@ def _snake_order(round1: List[int], rounds: int) -> List[int]:
 
 
 def _rid_to_team_idx_from_draft(draft: Dict[str, Any], settings: LeagueSettings) -> Dict[str, int]:
-    """Team index = round-1 draft slot (must match Sleeper draft_order, not sorted roster ids)."""
+    # Team index = round-1 draft slot (must match Sleeper draft_order, not sorted roster ids).
     r1 = _round1_roster_ids(draft)
     if len(r1) != settings.num_teams:
         raise ValueError(f"draft_order length {len(r1)} != num_teams {settings.num_teams}.")
     return {str(rid): i for i, rid in enumerate(r1)}
 
 
+# Resolve the requesting user's team index from league roster ownership.
 def resolve_user_team_idx(rosters: List[Dict[str, Any]], user_id: str, rid_to_idx: Dict[str, int]) -> int:
     uid = str(user_id)
     for r in rosters:
@@ -53,6 +56,7 @@ def resolve_user_team_idx(rosters: List[Dict[str, Any]], user_id: str, rid_to_id
     raise ValueError("user_id not found on any roster in this league.")
 
 
+# Construct current DraftState from live Sleeper draft/pick payloads.
 def build_draft_state(
     draft: Dict[str, Any],
     picks: List[Dict[str, Any]],

@@ -32,21 +32,25 @@ BASE = "https://api.sleeper.app"
 OUT_DIR = Path("sleeper_exports")
 
 
+# HTTP GET helper that returns parsed JSON and raises on non-200.
 def get_json(url: str, params: Optional[dict] = None, timeout_s: int = 30) -> Any:
     r = requests.get(url, params=params, timeout=timeout_s)
     r.raise_for_status()
     return r.json()
 
 
+# Write object to disk as pretty-printed JSON.
 def save_json(obj: Any, path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, indent=2))
 
 
+# Read a JSON file from disk.
 def load_json(path: Path) -> Any:
     return json.loads(path.read_text())
 
 
+# Fallback fantasy-point calculator when direct projection totals are absent.
 def compute_ppr_points_from_components(stats: Dict[str, Any], ppr: float) -> float:
     def f(key: str) -> float:
         v = stats.get(key)
@@ -65,6 +69,7 @@ def compute_ppr_points_from_components(stats: Dict[str, Any], ppr: float) -> flo
     return pts
 
 
+# Extract projected fantasy points from a projection row for requested scoring.
 def projected_points_from_projection_row(row: Dict[str, Any], scoring: str) -> float:
     stats = row.get("stats") or {}
     scoring = scoring.lower()
@@ -81,6 +86,7 @@ def projected_points_from_projection_row(row: Dict[str, Any], scoring: str) -> f
     return compute_ppr_points_from_components(stats, ppr=ppr_val)
 
 
+# Fetch/cache Sleeper's players directory.
 def fetch_players_nfl(use_cache: bool) -> Dict[str, Any]:
     path = OUT_DIR / "players_nfl.json"
     if use_cache and path.exists():
@@ -90,6 +96,7 @@ def fetch_players_nfl(use_cache: bool) -> Dict[str, Any]:
     return players
 
 
+# Fetch/cache week-1 projections for relevant fantasy positions.
 def fetch_week1_projections(season: int, use_cache: bool) -> List[Dict[str, Any]]:
     path = OUT_DIR / f"projections_{season}_week1.json"
     if use_cache and path.exists():
@@ -103,6 +110,7 @@ def fetch_week1_projections(season: int, use_cache: bool) -> List[Dict[str, Any]
     return proj
 
 
+# Build player_id list sorted descending by projected fantasy points.
 def build_sorted_candidates(
     players_map: Dict[str, Any],
     proj_week1: List[Dict[str, Any]],
@@ -127,6 +135,7 @@ def build_sorted_candidates(
     return scored
 
 
+# Best-effort integer conversion with fallback default.
 def _safe_int(x: Any, default: int = 0) -> int:
     try:
         return int(x)
@@ -135,7 +144,7 @@ def _safe_int(x: Any, default: int = 0) -> int:
 
 
 def week_played(stats: Dict[str, Any]) -> bool:
-    """Partial snaps / any real line counts as played."""
+    # Partial snaps / any real line counts as played.
     if not stats:
         return False
     gp = stats.get("gp")
@@ -176,12 +185,14 @@ def count_missed_weeks(
     return n
 
 
+# Fetch one player's weekly stats for a season.
 def fetch_player_weekly(season: int, player_id: str) -> Any:
     url = f"{BASE}/stats/nfl/player/{player_id}"
     params = {"season_type": "regular", "season": season, "grouping": "week"}
     return get_json(url, params=params)
 
 
+# Write compact selected-top-N player rows used downstream by labeling/inference.
 def save_selected_list(
     season: int,
     scoring: str,
@@ -206,6 +217,7 @@ def save_selected_list(
     save_json(rows, OUT_DIR / f"selected_top_{len(selected)}_{season}_week1_{scoring}.json")
 
 
+# CLI entrypoint for Sleeper export collection in full or projections-only mode.
 def main() -> None:
     ap = argparse.ArgumentParser(description="Collect Sleeper players/projections and optional weekly stats.")
     ap.add_argument("--season", type=int, required=True)

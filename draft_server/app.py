@@ -32,6 +32,7 @@ _players_map: Dict[str, Any] = {}
 _universe_cache: Dict[int, Dict[str, Any]] = {}
 
 
+# Return cached Player universe for a season, loading on first request.
 def _universe(season: int):
     if season not in _universe_cache:
         _universe_cache[season] = load_universe(season, 500, LeagueSettings())
@@ -68,6 +69,7 @@ app.add_middleware(
 
 @app.on_event("startup")
 def _startup() -> None:
+    # Preload model and players metadata on server startup.
     global _players_map
     ensure_model_loaded()
     _players_map = load_players_map()
@@ -75,11 +77,13 @@ def _startup() -> None:
 
 @app.get("/api/health")
 def health():
+    # Basic liveness endpoint for local sanity checks.
     return {"ok": True}
 
 
 @app.get("/api/user")
 def api_user(username: str = Query(..., description="Sleeper username")):
+    # Resolve a Sleeper username into user metadata and user_id.
     u = sleeper_client.get_user_by_username(username)
     if not u.get("user_id"):
         raise HTTPException(404, "User not found")
@@ -92,6 +96,7 @@ def api_drafts(
     sport: str = Query("nfl"),
     season: int = Query(2026),
 ):
+    # List drafts for a resolved user, enriched with league names.
     drafts = sleeper_client.get_user_drafts(user_id, sport, season)
     out = []
     for d in drafts:
@@ -118,6 +123,7 @@ def api_draft_status(
     user_id: str = Query(...),
     season: int = Query(2024, description="Season for local stats/projections files"),
 ):
+    # Return live draft clock state and whether it is currently the user's turn.
     settings = LeagueSettings()
     draft = sleeper_client.get_draft(draft_id)
     picks = sleeper_client.get_draft_picks(draft_id)
@@ -152,6 +158,7 @@ def api_draft_status(
 
 @app.post("/api/recommend")
 def api_recommend(body: RecommendBody):
+    # Generate top recommendations for current live draft state and user prefs.
     settings = LeagueSettings()
     draft = sleeper_client.get_draft(body.draft_id)
     picks = sleeper_client.get_draft_picks(body.draft_id)

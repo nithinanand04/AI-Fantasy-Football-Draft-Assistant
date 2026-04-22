@@ -11,6 +11,7 @@ from torch import nn
 
 
 class MLPScorer(nn.Module):
+    # Simple MLP scorer that outputs one scalar score per candidate row.
     def __init__(self, input_dim: int, hidden_dim: int = 128) -> None:
         super().__init__()
         self.net = nn.Sequential(
@@ -21,5 +22,6 @@ class MLPScorer(nn.Module):
             nn.Linear(hidden_dim, 1),
         )
 
+    # Return per-row scores for a batch/list of candidate feature vectors.
     def forward(self, X: torch.Tensor) -> torch.Tensor:
         return self.net(X).squeeze(-1)

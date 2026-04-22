@@ -57,10 +57,12 @@ class DraftState:
     order: List[int]
 
 
+# Read JSON file from disk and return parsed object.
 def load_json(path: Path) -> Any:
     return json.loads(path.read_text())
 
 
+# Compute/resolve weekly PPR points from Sleeper-style stat dictionaries.
 def weekly_points_ppr(stats: Dict[str, Any]) -> float:
     if not isinstance(stats, dict):
         return 0.0
@@ -81,6 +83,7 @@ def weekly_points_ppr(stats: Dict[str, Any]) -> float:
     return pts
 
 
+# Estimate volatility risk in [0,1] from weekly points dispersion.
 def compute_risk_prob(pid: str, player: Dict[str, Any], stats_weekly: Dict[str, Any], season_weeks: int) -> float:
     bye_week = int((player.get("metadata") or {}).get("bye_week") or 0)
     vals: List[float] = []
@@ -103,6 +106,7 @@ def compute_risk_prob(pid: str, player: Dict[str, Any], stats_weekly: Dict[str, 
     return max(0.0, min(1.0, sd / denom))
 
 
+# Count roster composition by fantasy position for a team.
 def roster_counts(roster: List[str], universe: Dict[str, Player]) -> Dict[str, int]:
     counts = {p: 0 for p in POS}
     for pid in roster:
@@ -112,6 +116,7 @@ def roster_counts(roster: List[str], universe: Dict[str, Player]) -> Dict[str, i
     return counts
 
 
+# Return number of picks until the given team drafts again.
 def picks_until_next_turn(order: List[int], pick_no: int, team_idx: int) -> int:
     start = pick_no
     for j in range(start, len(order)):
@@ -120,6 +125,7 @@ def picks_until_next_turn(order: List[int], pick_no: int, team_idx: int) -> int:
     return 0
 
 
+# Build the 34-feature vector for one (state, candidate, user prefs) tuple.
 def featurize_with_counts(
     state: DraftState,
     user_idx: int,

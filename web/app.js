@@ -1,3 +1,12 @@
+/**
+ * Frontend controller for the local draft assistant UI.
+ *
+ * Responsibilities:
+ * - Resolve Sleeper user and drafts.
+ * - Poll live draft status.
+ * - Validate preferences and request model recommendations.
+ * - Render user-friendly status + recommendation table.
+ */
 const $ = (id) => document.getElementById(id);
 
 let userId = null;
@@ -5,6 +14,7 @@ let draftId = null;
 let pollTimer = null;
 const DATA_SEASON = 2026;
 
+/** Call a GET API endpoint and return parsed JSON or throw a readable error. */
 async function api(path) {
   const r = await fetch(path);
   const t = await r.text();
@@ -18,6 +28,7 @@ async function api(path) {
   return j;
 }
 
+/** Call a POST API endpoint with JSON body and return parsed JSON. */
 async function apiPost(path, body) {
   const r = await fetch(path, {
     method: "POST",
@@ -35,6 +46,7 @@ async function apiPost(path, body) {
   return j;
 }
 
+/** Toggle user lookup success/error UI widgets. */
 function setUserUi({ ok, displayLine, err }) {
   $("userOk").hidden = !ok;
   $("userError").hidden = !err;
@@ -42,6 +54,7 @@ function setUserUi({ ok, displayLine, err }) {
   $("userError").textContent = err || "";
 }
 
+// Handle "Find user" action.
 $("btnUser").onclick = async () => {
   setUserUi({ ok: false, displayLine: "", err: "" });
   $("userError").hidden = false;
@@ -66,6 +79,7 @@ $("btnUser").onclick = async () => {
   }
 };
 
+// Handle "List drafts" action.
 $("btnDrafts").onclick = async () => {
   const sport = $("sport").value.trim() || "nfl";
   const season = $("season").value || "2026";
@@ -105,6 +119,7 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;");
 }
 
+/** Render a human-readable draft status summary block. */
 function renderStatusHuman(j) {
   const el = $("statusHuman");
   const done = !j.in_progress;
@@ -128,6 +143,7 @@ function renderStatusHuman(j) {
   el.hidden = false;
 }
 
+/** Read and validate preference controls, then convert ranks to model weights. */
 function buildPrefsFromUi() {
   const toNum = (id) => Number($(id).value);
   const risk = toNum("prefRisk");
@@ -166,6 +182,7 @@ function buildPrefsFromUi() {
   };
 }
 
+/** Poll live draft status from backend for the currently selected draft/user. */
 async function pollOnce() {
   if (!draftId || !userId) return;
   const ds = DATA_SEASON;
@@ -183,8 +200,10 @@ async function pollOnce() {
   }
 }
 
+// Wire one-click status polling.
 $("btnPoll").onclick = () => pollOnce();
 
+// Toggle periodic background polling for draft status.
 $("autoPoll").onchange = () => {
   if ($("autoPoll").checked) {
     pollOnce();
@@ -195,6 +214,7 @@ $("autoPoll").onchange = () => {
   }
 };
 
+// Handle "Get recommendations" action.
 $("btnRec").onclick = async () => {
   if (!draftId || !userId) return;
   $("recTableWrap").hidden = false;
