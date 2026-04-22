@@ -112,7 +112,7 @@ Open:
 
 ### F) Optional: evaluate with draft simulation
 ```bash
-python3 draft_sim.py --season 2026 --scoring ppr --runs 50 --candidates-k 200
+python3 draft_sim.py --season 2025 --scoring ppr --runs 50 --candidates-k 500
 ```
 
 ---
