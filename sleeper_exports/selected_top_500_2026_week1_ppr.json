@@ -1,0 +1,3502 @@
+[
+  {
+    "player_id": "6462",
+    "full_name": "Ellis Richardson",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7926",
+    "full_name": "Carl Tucker",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1408",
+    "full_name": "Le'Veon Bell",
+    "position": "RB",
+    "team": "TB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8074",
+    "full_name": "Matt Seybert",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13175",
+    "full_name": "Kinkead Dent",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11533",
+    "full_name": "Brandon Aubrey",
+    "position": "K",
+    "team": "DAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2801",
+    "full_name": "DeAndrew White",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7918",
+    "full_name": "A.J. Rose",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5428",
+    "full_name": "Ricky Jeune",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13221",
+    "full_name": "Brett Gabbert",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11522",
+    "full_name": "Jerome Kapp",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2474",
+    "full_name": "Nick Boyle",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8809",
+    "full_name": "Aaron Shampklin",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "9487",
+    "full_name": "Parker Washington",
+    "position": "WR",
+    "team": "JAX",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3342",
+    "full_name": "Jakeem Grant",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1684",
+    "full_name": "Jaron Brown",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6918",
+    "full_name": "Salvon Ahmed",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6137",
+    "full_name": "Tommy Sweeney",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3561",
+    "full_name": "Bryce Williams",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6786",
+    "full_name": "CeeDee Lamb",
+    "position": "WR",
+    "team": "DAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5038",
+    "full_name": "Michael Gallup",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11584",
+    "full_name": "Bucky Irving",
+    "position": "RB",
+    "team": "TB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2023",
+    "full_name": "De'Anthony Thomas",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11649",
+    "full_name": "Kendall Milton",
+    "position": "RB",
+    "team": "CIN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6783",
+    "full_name": "Jerry Jeudy",
+    "position": "WR",
+    "team": "CLE",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11616",
+    "full_name": "Jacob Cowing",
+    "position": "WR",
+    "team": "SF",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5965",
+    "full_name": "Miles Boykin",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13064",
+    "full_name": "Dorian Singer",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4992",
+    "full_name": "Dante Pettis",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11155",
+    "full_name": "Christian Sims",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "9504",
+    "full_name": "Kayshon Boutte",
+    "position": "WR",
+    "team": "NE",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4828",
+    "full_name": "Rashard Davis",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4396",
+    "full_name": "Drew Morgan",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4038",
+    "full_name": "John Ross",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12507",
+    "full_name": "Omarion Hampton",
+    "position": "RB",
+    "team": "LAC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11439",
+    "full_name": "Jaleel McLaughlin",
+    "position": "RB",
+    "team": "DEN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11282",
+    "full_name": "Johnny King",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3730",
+    "full_name": "Tevin Jones",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13302",
+    "full_name": "Adam Randall",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5718",
+    "full_name": "Ryan Yurachek",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3916",
+    "full_name": "David Watford",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5530",
+    "full_name": "Evan Berry",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11445",
+    "full_name": "Taylor Grimes",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5619",
+    "full_name": "Dalyn Dawkins",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5122",
+    "full_name": "Boston Scott",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11629",
+    "full_name": "Devontez Walker",
+    "position": "WR",
+    "team": "BAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13295",
+    "full_name": "Behren Morton",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2320",
+    "full_name": "Melvin Gordon",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1895",
+    "full_name": "AJ McCarron",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11906",
+    "full_name": "Ty James",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12493",
+    "full_name": "Oronde Gadsden",
+    "position": "TE",
+    "team": "LAC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12028",
+    "full_name": "TaMerik Williams",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12699",
+    "full_name": "LaJohntay Wester",
+    "position": "WR",
+    "team": "BAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3488",
+    "full_name": "D.J. Foster",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13323",
+    "full_name": "Rahsul Faison",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12244",
+    "full_name": "DeAngelo Hardy",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1387",
+    "full_name": "Rex Burkhead",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7553",
+    "full_name": "Kyle Pitts",
+    "position": "TE",
+    "team": "ATL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5143",
+    "full_name": "Demario Richard",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8410",
+    "full_name": "Jequez Ezzard",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2025",
+    "full_name": "Albert Wilson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5838",
+    "full_name": "Phillip Andersen",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12300",
+    "full_name": "Joshua Lingenfelter",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11304",
+    "full_name": "E.J. Jenkins",
+    "position": "TE",
+    "team": "PHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "19",
+    "full_name": "Joe Flacco",
+    "position": "QB",
+    "team": "CIN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13352",
+    "full_name": "Lincoln Pare",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12967",
+    "full_name": "Jacolby George",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13228",
+    "full_name": "Ife Adeyi",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6459",
+    "full_name": "Sean Modster",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12264",
+    "full_name": "Cole Beck",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "801",
+    "full_name": "Charles Clay",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6374",
+    "full_name": "Drew Belcher",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4054",
+    "full_name": "Mo Alie-Cox",
+    "position": "TE",
+    "team": "IND",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7944",
+    "full_name": "Michael Strachan",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1550",
+    "full_name": "Ryan Griffin",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13108",
+    "full_name": "Julian Fleming",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3423",
+    "full_name": "Robbie Chosen",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12121",
+    "full_name": "Deshaun Fenwick",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3496",
+    "full_name": "Stephen Anderson",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4813",
+    "full_name": "Marvin Bracy",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1800",
+    "full_name": "Jordan Matthews",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5100",
+    "full_name": "Jordan Wilkins",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7938",
+    "full_name": "Hunter Kampmoyer",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12848",
+    "full_name": "Josh Kelly",
+    "position": "WR",
+    "team": "HOU",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8698",
+    "full_name": "Jake Tonges",
+    "position": "TE",
+    "team": "SF",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3453",
+    "full_name": "Josh Ferguson",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4385",
+    "full_name": "Kalif Phillips",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7013",
+    "full_name": "Steven Montez",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7862",
+    "full_name": "T.J. Vasher",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "10233",
+    "full_name": "Max Duggan",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1517",
+    "full_name": "Theo Riddick",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6279",
+    "full_name": "Brandon Dillon",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6501",
+    "full_name": "C.J. Conrad",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5776",
+    "full_name": "Mark Chapman",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2948",
+    "full_name": "Brandon Cottom",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12971",
+    "full_name": "Ke'Shawn Williams",
+    "position": "WR",
+    "team": "CIN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6381",
+    "full_name": "Alexander Hollins",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6016",
+    "full_name": "Dax Raymond",
+    "position": "TE",
+    "team": "PIT",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11157",
+    "full_name": "Brycen Tremayne",
+    "position": "WR",
+    "team": "CAR",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6908",
+    "full_name": "La'Mical Perine",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4569",
+    "full_name": "Brian Brown",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5007",
+    "full_name": "Keke Coutee",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8116",
+    "full_name": "Pierre Strong",
+    "position": "RB",
+    "team": "GB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6823",
+    "full_name": "Jacob Eason",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3648",
+    "full_name": "Matt Weiser",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7619",
+    "full_name": "Mathew Sexton",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7555",
+    "full_name": "Jamie Newman",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13409",
+    "full_name": "Donaven McCulley",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7585",
+    "full_name": "Davis Mills",
+    "position": "QB",
+    "team": "HOU",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12399",
+    "full_name": "Caleb Chapman",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8931",
+    "full_name": "Josh Ali",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8633",
+    "full_name": "Stephon Robinson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2359",
+    "full_name": "Ameer Abdullah",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "788",
+    "full_name": "Dion Lewis",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8241",
+    "full_name": "Anthony Brown",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5854",
+    "full_name": "Drew Lock",
+    "position": "QB",
+    "team": "SEA",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2936",
+    "full_name": "Rasheed Williams",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3211",
+    "full_name": "Paul Perkins",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7593",
+    "full_name": "Trey Sermon",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6489",
+    "full_name": "Taryn Christion",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7614",
+    "full_name": "Darius Clark",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12832",
+    "full_name": "Blayne Taylor",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12809",
+    "full_name": "Mac Dalena",
+    "position": "WR",
+    "team": "NYJ",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6966",
+    "full_name": "Javon Leake",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4548",
+    "full_name": "Joel Bouagnon",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12354",
+    "full_name": "Easton Dean",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3021",
+    "full_name": "Devin Gardner",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11579",
+    "full_name": "Audric Estime",
+    "position": "RB",
+    "team": "NO",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3294",
+    "full_name": "Dak Prescott",
+    "position": "QB",
+    "team": "DAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4031",
+    "full_name": "Travis Wilson",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13301",
+    "full_name": "Antonio Williams",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7274",
+    "full_name": "Tyler Simmons",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5359",
+    "full_name": "Dorren Miller",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12180",
+    "full_name": "Alex McNulty",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3609",
+    "full_name": "Chris King",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "421",
+    "full_name": "Matthew Stafford",
+    "position": "QB",
+    "team": "LAR",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11636",
+    "full_name": "Johnny Wilson",
+    "position": "WR",
+    "team": "PHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8134",
+    "full_name": "Khalil Shakir",
+    "position": "WR",
+    "team": "BUF",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5398",
+    "full_name": "Justin Crawford",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7828",
+    "full_name": "Noah Gray",
+    "position": "TE",
+    "team": "KC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "10861",
+    "full_name": "Xazavian Valladay",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4814",
+    "full_name": "De'Quan Hampton",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7397",
+    "full_name": "Parker Houston",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11557",
+    "full_name": "Joe Milton",
+    "position": "QB",
+    "team": "DAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5052",
+    "full_name": "Ronald Jones",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4128",
+    "full_name": "Chad Williams",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6626",
+    "full_name": "Isaac Zico",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13304",
+    "full_name": "O'Mega Blake",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5995",
+    "full_name": "Justice Hill",
+    "position": "RB",
+    "team": "BAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3524",
+    "full_name": "Marquise Williams",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4421",
+    "full_name": "Jacob Hollister",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12925",
+    "full_name": "Jamaal Pritchett",
+    "position": "WR",
+    "team": "NYJ",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12517",
+    "full_name": "Colston Loveland",
+    "position": "TE",
+    "team": "CHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6081",
+    "full_name": "Kendall Blanton",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4479",
+    "full_name": "Thomas Sperbeck",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3318",
+    "full_name": "Kevin Hogan",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5269",
+    "full_name": "Codey McElroy",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2553",
+    "full_name": "Rory Anderson",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4585",
+    "full_name": "Anthony Nash",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11229",
+    "full_name": "Calvin Tyler",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "89",
+    "full_name": "Chad Henne",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8138",
+    "full_name": "James Cook",
+    "position": "RB",
+    "team": "BUF",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2770",
+    "full_name": "Harold Spears",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7159",
+    "full_name": "Reid Sinnett",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "9231",
+    "full_name": "Jaren Hall",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7262",
+    "full_name": "Jalen Morton",
+    "position": "QB",
+    "team": "IND",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8442",
+    "full_name": "Jarrett Guarantano",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8119",
+    "full_name": "Jahan Dotson",
+    "position": "WR",
+    "team": "ATL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8194",
+    "full_name": "Jashaun Corbin",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7863",
+    "full_name": "JaQuan Hardy",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5231",
+    "full_name": "Cole Hunt",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7407",
+    "full_name": "Isaiah Wright",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5268",
+    "full_name": "Ben Johnson",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6075",
+    "full_name": "Jesper Horsted",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11145",
+    "full_name": "Tanner Brown",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4697",
+    "full_name": "Khalid Abdullah",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12831",
+    "full_name": "Tyler Kahmann",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12220",
+    "full_name": "Brevin Easton",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13418",
+    "full_name": "Robert Henry",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5550",
+    "full_name": "John David Moore",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12542",
+    "full_name": "Efton Chism",
+    "position": "WR",
+    "team": "NE",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7552",
+    "full_name": "Blake Proehl",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4733",
+    "full_name": "Alex Gray",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3540",
+    "full_name": "Jamaal Jones",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7049",
+    "full_name": "Jauan Jennings",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8136",
+    "full_name": "Rachaad White",
+    "position": "RB",
+    "team": "WAS",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6496",
+    "full_name": "Cole Hedlund",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11610",
+    "full_name": "Malik Washington",
+    "position": "WR",
+    "team": "MIA",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5024",
+    "full_name": "James Washington",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12413",
+    "full_name": "Hamze El-Zayat",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2304",
+    "full_name": "Jerome Cunningham",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8070",
+    "full_name": "Travis Toivonen",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6519",
+    "full_name": "Darrius Shepherd",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11918",
+    "full_name": "Ahmarean Brown",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2565",
+    "full_name": "Jean Sifrin",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4943",
+    "full_name": "Sam Darnold",
+    "position": "QB",
+    "team": "SEA",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5809",
+    "full_name": "Ja'Quan Gardner",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "10228",
+    "full_name": "Charlie Jones",
+    "position": "WR",
+    "team": "CIN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4026",
+    "full_name": "DeShone Kizer",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1169",
+    "full_name": "Robert Griffin",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11598",
+    "full_name": "Tanner McLachlan",
+    "position": "TE",
+    "team": "LAC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11995",
+    "full_name": "Zack Annexstad",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11998",
+    "full_name": "Emani Bailey",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "829",
+    "full_name": "Andy Dalton",
+    "position": "QB",
+    "team": "PHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "10222",
+    "full_name": "Jayden Reed",
+    "position": "WR",
+    "team": "GB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7534",
+    "full_name": "Seth Williams",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2754",
+    "full_name": "Michael Johnson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6388",
+    "full_name": "Romello Brooker",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2684",
+    "full_name": "Corbin Louks",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1266",
+    "full_name": "Greg Zuerlein",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7905",
+    "full_name": "Dylan Soehner",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12284",
+    "full_name": "Michael Herzog",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11311",
+    "full_name": "Jason Brownlee",
+    "position": "WR",
+    "team": "KC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4330",
+    "full_name": "JoJo Natson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6072",
+    "full_name": "Bruce Anderson",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12532",
+    "full_name": "Ja'Corey Brooks",
+    "position": "WR",
+    "team": "WAS",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11008",
+    "full_name": "Anders Carlson",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3278",
+    "full_name": "Pharoh Cooper",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12981",
+    "full_name": "Gee Scott",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2581",
+    "full_name": "Jahwan Edwards",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4544",
+    "full_name": "Daikiel Shorts",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11370",
+    "full_name": "Chris Brooks",
+    "position": "RB",
+    "team": "GB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6196",
+    "full_name": "Christian Wade",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7794",
+    "full_name": "Chris Evans",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11574",
+    "full_name": "Dylan Laube",
+    "position": "RB",
+    "team": "LV",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6323",
+    "full_name": "Andrew Beck",
+    "position": "RB",
+    "team": "NYJ",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7606",
+    "full_name": "Kadarius Toney",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6927",
+    "full_name": "Quez Watkins",
+    "position": "WR",
+    "team": "PHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3615",
+    "full_name": "Sione Houma",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2561",
+    "full_name": "Anthony Boone",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13246",
+    "full_name": "Jaden Smith",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8111",
+    "full_name": "Cade Otton",
+    "position": "TE",
+    "team": "TB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2929",
+    "full_name": "Adrian Coxson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6742",
+    "full_name": "Marquis Young",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8245",
+    "full_name": "Derrick Deese",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4061",
+    "full_name": "Davis Webb",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3269",
+    "full_name": "Chris Moore",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6970",
+    "full_name": "Stephen Sullivan",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8092",
+    "full_name": "Corey Taylor",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6259",
+    "full_name": "Darnell Holland",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12374",
+    "full_name": "Brenden Bates",
+    "position": "TE",
+    "team": "CLE",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2957",
+    "full_name": "Ernst Brun",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12866",
+    "full_name": "Jalin Conyers",
+    "position": "TE",
+    "team": "MIA",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6522",
+    "full_name": "T.J. Linta",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1911",
+    "full_name": "Willie Snead",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1034",
+    "full_name": "Brandon Bolden",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4798",
+    "full_name": "C.J. Germany",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13270",
+    "full_name": "CJ Daniels",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5808",
+    "full_name": "Connor Jessop",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5242",
+    "full_name": "Dontez Byrd",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5026",
+    "full_name": "Tre'Quan Smith",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11647",
+    "full_name": "Kimani Vidal",
+    "position": "RB",
+    "team": "LAC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6045",
+    "full_name": "Gary Jennings",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4821",
+    "full_name": "Jamari Staples",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13273",
+    "full_name": "Josh Cuevas",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13282",
+    "full_name": "Jack Endries",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6395",
+    "full_name": "Trinity Benson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11478",
+    "full_name": "Gavin Holmes",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8549",
+    "full_name": "Trevon Clark",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11266",
+    "full_name": "Thyrick Pitts",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7608",
+    "full_name": "Khalil Herbert",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4227",
+    "full_name": "Harrison Butker",
+    "position": "K",
+    "team": "KC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6402",
+    "full_name": "Steven Sims",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8484",
+    "full_name": "Ko Kieft",
+    "position": "TE",
+    "team": "TB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8213",
+    "full_name": "Dai'Jean Dixon",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11226",
+    "full_name": "Tyjon Lindsey",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1587",
+    "full_name": "Vance McDonald",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7412",
+    "full_name": "Sandro Platzgummer",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7499",
+    "full_name": "Paul Quessenberry",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "9488",
+    "full_name": "Jaxon Smith-Njigba",
+    "position": "WR",
+    "team": "SEA",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "9510",
+    "full_name": "Lew Nichols",
+    "position": "RB",
+    "team": "PIT",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11571",
+    "full_name": "Isaiah Davis",
+    "position": "RB",
+    "team": "NYJ",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7526",
+    "full_name": "Jaylen Waddle",
+    "position": "WR",
+    "team": "DEN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4949",
+    "full_name": "Derrius Guice",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13079",
+    "full_name": "Jahdae Walker",
+    "position": "WR",
+    "team": "CHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8115",
+    "full_name": "Jalen Wydermyer",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6248",
+    "full_name": "Trevion Thompson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13047",
+    "full_name": "Jacardia Wright",
+    "position": "RB",
+    "team": "SEA",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4508",
+    "full_name": "Gabe Marks",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12820",
+    "full_name": "Landon Parker",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11505",
+    "full_name": "David Durden",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13318",
+    "full_name": "Noah Thomas",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2911",
+    "full_name": "Justin Manton",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5911",
+    "full_name": "Jalen Hurd",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13380",
+    "full_name": "Brenen Thompson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2944",
+    "full_name": "Matt LaCosse",
+    "position": "TE",
+    "team": "NE",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3036",
+    "full_name": "Matt Lengel",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6343",
+    "full_name": "Manny Wilkins",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5132",
+    "full_name": "Steven Mitchell",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6993",
+    "full_name": "Dominick Wood-Anderson",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "345",
+    "full_name": "Brian Hoyer",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6820",
+    "full_name": "Clyde Edwards-Helaire",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7008",
+    "full_name": "Brian Lewerke",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13400",
+    "full_name": "Justin Joly",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5169",
+    "full_name": "Malik Earl",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11931",
+    "full_name": "Austin Reed",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7713",
+    "full_name": "Jaelon Darden",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12333",
+    "full_name": "Dakereon Joyner",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4666",
+    "full_name": "Younghoe Koo",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5092",
+    "full_name": "Troy Fumagalli",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2197",
+    "full_name": "Brandin Cooks",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1718",
+    "full_name": "Derek Carrier",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6236",
+    "full_name": "Travon McMillian",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5870",
+    "full_name": "Daniel Jones",
+    "position": "QB",
+    "team": "IND",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8905",
+    "full_name": "Travis Koontz",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12373",
+    "full_name": "Peter LeBlanc",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5290",
+    "full_name": "Deontay Burnett",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2463",
+    "full_name": "Jesse James",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13421",
+    "full_name": "Eli Raridon",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12250",
+    "full_name": "Riley Sharp",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4555",
+    "full_name": "Andy Phillips",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3568",
+    "full_name": "Marken Michel",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5322",
+    "full_name": "James Looney",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8878",
+    "full_name": "Jared Scott",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4214",
+    "full_name": "Shelton Gibson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2391",
+    "full_name": "David Johnson",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7064",
+    "full_name": "Darrynton Evans",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7088",
+    "full_name": "Xavier Jones",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5844",
+    "full_name": "T.J. Hockenson",
+    "position": "TE",
+    "team": "MIN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3920",
+    "full_name": "Harvey Binford",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12961",
+    "full_name": "Ryan Fitzgerald",
+    "position": "K",
+    "team": "CAR",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11947",
+    "full_name": "Austin Jones",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "10955",
+    "full_name": "Chad Ryland",
+    "position": "K",
+    "team": "ARI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4710",
+    "full_name": "Gio Pascascio",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12529",
+    "full_name": "TreVeyon Henderson",
+    "position": "RB",
+    "team": "NE",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3664",
+    "full_name": "J.D. McKissic",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6193",
+    "full_name": "Cole Murphy",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7933",
+    "full_name": "Alex Kessman",
+    "position": "K",
+    "team": "CAR",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4127",
+    "full_name": "C.J. Beathard",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13431",
+    "full_name": "Miles Kitselman",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13310",
+    "full_name": "Miller Moss",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12913",
+    "full_name": "J.J. Jones",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5957",
+    "full_name": "Isaac Nauta",
+    "position": "TE",
+    "team": "GB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7601",
+    "full_name": "Rondale Moore",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13290",
+    "full_name": "Jalen Moss",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "367",
+    "full_name": "Jared Cook",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13154",
+    "full_name": "Marcus Major",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4630",
+    "full_name": "I'Tavius Mathers",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5196",
+    "full_name": "Ethan Wolf",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13268",
+    "full_name": "Elijah Sarratt",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12535",
+    "full_name": "Isaac TeSlaa",
+    "position": "WR",
+    "team": "DET",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5170",
+    "full_name": "Phillip Lindsay",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6790",
+    "full_name": "D'Andre Swift",
+    "position": "RB",
+    "team": "CHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6146",
+    "full_name": "Kaden Smith",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1373",
+    "full_name": "Geno Smith",
+    "position": "QB",
+    "team": "NYJ",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7162",
+    "full_name": "Ryan Becker",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12491",
+    "full_name": "Corey Kiner",
+    "position": "RB",
+    "team": "ARI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6358",
+    "full_name": "Kahlil Lewis",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6768",
+    "full_name": "Tua Tagovailoa",
+    "position": "QB",
+    "team": "ATL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6130",
+    "full_name": "Devin Singletary",
+    "position": "RB",
+    "team": "NYG",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3531",
+    "full_name": "Marshaun Coprich",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12276",
+    "full_name": "RJ Mobley",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5004",
+    "full_name": "Ito Smith",
+    "position": "RB",
+    "team": "DAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4923",
+    "full_name": "Rushel Shell",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12356",
+    "full_name": "Jabari Small",
+    "position": "RB",
+    "team": "DET",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6904",
+    "full_name": "Jalen Hurts",
+    "position": "QB",
+    "team": "PHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2450",
+    "full_name": "Brett Hundley",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4797",
+    "full_name": "Josh Rounds",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7515",
+    "full_name": "Sergio Castillo",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13284",
+    "full_name": "Dylan Devezin",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7105",
+    "full_name": "Ramiz Ahmed",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7538",
+    "full_name": "Zach Wilson",
+    "position": "QB",
+    "team": "NO",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7561",
+    "full_name": "Elijah Mitchell",
+    "position": "RB",
+    "team": "NE",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7376",
+    "full_name": "Case Cookus",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5129",
+    "full_name": "Adonis Jennings",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5828",
+    "full_name": "Diontae Spencer",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3209",
+    "full_name": "Devontae Booker",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8409",
+    "full_name": "Tyler Snead",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12898",
+    "full_name": "Seth Henigan",
+    "position": "QB",
+    "team": "IND",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1348",
+    "full_name": "Dustin Hopkins",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12950",
+    "full_name": "Robert Lewis",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7458",
+    "full_name": "Isaiah Zuber",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11635",
+    "full_name": "Ladd McConkey",
+    "position": "WR",
+    "team": "LAC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13347",
+    "full_name": "Demond Claiborne",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12475",
+    "full_name": "Ricky White",
+    "position": "WR",
+    "team": "SEA",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8154",
+    "full_name": "Brian Robinson",
+    "position": "RB",
+    "team": "ATL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11060",
+    "full_name": "Robert Burns",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7427",
+    "full_name": "Tyler Mabry",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "515",
+    "full_name": "Rob Gronkowski",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13331",
+    "full_name": "Dae'Quan Wright",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11806",
+    "full_name": "Casey Washington",
+    "position": "WR",
+    "team": "ATL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5941",
+    "full_name": "Felton Davis",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6068",
+    "full_name": "Devine Ozigbo",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6111",
+    "full_name": "Jake Browning",
+    "position": "QB",
+    "team": "TB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12965",
+    "full_name": "Ethan Garbers",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5733",
+    "full_name": "Clayton Wilson",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6018",
+    "full_name": "Zach Gentry",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4289",
+    "full_name": "Ishmael Zamora",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6586",
+    "full_name": "Moral Stephens",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5138",
+    "full_name": "Martez Carter",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13080",
+    "full_name": "Deion Hankins",
+    "position": "RB",
+    "team": "CHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1149",
+    "full_name": "Alshon Jeffery",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6663",
+    "full_name": "Micah Wright",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7583",
+    "full_name": "Sam Ehlinger",
+    "position": "QB",
+    "team": "DEN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6637",
+    "full_name": "Nico Evans",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2903",
+    "full_name": "Shane Carden",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7156",
+    "full_name": "J'Mar Smith",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5284",
+    "full_name": "Jeff Wilson",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13129",
+    "full_name": "Jermaine Terry",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13438",
+    "full_name": "DeaMonte Trayanum",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4445",
+    "full_name": "Keon Hatcher",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6380",
+    "full_name": "Davion Davis",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3762",
+    "full_name": "Brandon Shippen",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4744",
+    "full_name": "Barrett Burns",
+    "position": "TE",
+    "team": "BAL",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11620",
+    "full_name": "Rome Odunze",
+    "position": "WR",
+    "team": "CHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5289",
+    "full_name": "Cameron Batson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6019",
+    "full_name": "Johnnie Dixon",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2583",
+    "full_name": "Tyrell Williams",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "10232",
+    "full_name": "Michael Wilson",
+    "position": "WR",
+    "team": "ARI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8575",
+    "full_name": "Erik Krommenhoek",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12810",
+    "full_name": "Elijhah Badger",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1071",
+    "full_name": "Mohamed Sanu",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12435",
+    "full_name": "Geor'Quarius Spivey",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4200",
+    "full_name": "DeAngelo Yancey",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6804",
+    "full_name": "Jordan Love",
+    "position": "QB",
+    "team": "GB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3225",
+    "full_name": "Tyler Boyd",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12549",
+    "full_name": "Jordan Petaia",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6260",
+    "full_name": "Jake Powell",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7874",
+    "full_name": "Jeremiah Haydel",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2119",
+    "full_name": "James Franklin",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11191",
+    "full_name": "Justin Marshall",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5121",
+    "full_name": "Braxton Berrios",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7093",
+    "full_name": "Adrian Killins",
+    "position": "RB",
+    "team": "DEN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12360",
+    "full_name": "Latreal Jones",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "24",
+    "full_name": "Matt Ryan",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2257",
+    "full_name": "Carlos Hyde",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6083",
+    "full_name": "Matt Gay",
+    "position": "K",
+    "team": "LV",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8236",
+    "full_name": "Jerreth Sterns",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11099",
+    "full_name": "Kearis Jackson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5263",
+    "full_name": "Chase Litton",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8147",
+    "full_name": "John Metchie",
+    "position": "WR",
+    "team": "CAR",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "9483",
+    "full_name": "Zack Kuntz",
+    "position": "TE",
+    "team": "MIA",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13342",
+    "full_name": "John Michael Gyllenborg",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5283",
+    "full_name": "Ka'Raun White",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7956",
+    "full_name": "Cade Johnson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13136",
+    "full_name": "Redd Douglas",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11592",
+    "full_name": "Erick All",
+    "position": "TE",
+    "team": "CIN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7496",
+    "full_name": "Nick Westbrook-Ikhine",
+    "position": "WR",
+    "team": "IND",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11224",
+    "full_name": "Griffin Hebert",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "3634",
+    "full_name": "Kalif Raymond",
+    "position": "WR",
+    "team": "CHI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12018",
+    "full_name": "Sam Pinckney",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5773",
+    "full_name": "KhaDarel Hodge",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11520",
+    "full_name": "Lucky Jackson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2940",
+    "full_name": "Des Lawrence",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4574",
+    "full_name": "Cooper Rush",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5663",
+    "full_name": "Shane Wimann",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6205",
+    "full_name": "Brandon Silvers",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "9998",
+    "full_name": "Hendon Hooker",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8500",
+    "full_name": "John FitzPatrick",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4037",
+    "full_name": "Chris Godwin",
+    "position": "WR",
+    "team": "TB",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5244",
+    "full_name": "Devin Gray",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11606",
+    "full_name": "Dallin Holker",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5137",
+    "full_name": "Richie James",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7243",
+    "full_name": "Kevin Davidson",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8553",
+    "full_name": "Tre Ford",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12270",
+    "full_name": "Andrew Peasley",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12753",
+    "full_name": "Jamoi Mayes",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6375",
+    "full_name": "Jerome Washington",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5013",
+    "full_name": "Anthony Miller",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6017",
+    "full_name": "DaMarkus Lodge",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4874",
+    "full_name": "Chris Bazile",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7858",
+    "full_name": "Brenden Knox",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2146",
+    "full_name": "Richard Rodgers",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11561",
+    "full_name": "Michael Pratt",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5906",
+    "full_name": "Dawson Knox",
+    "position": "TE",
+    "team": "BUF",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7812",
+    "full_name": "Simi Fehoko",
+    "position": "WR",
+    "team": "ARI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12908",
+    "full_name": "Chandler Brayboy",
+    "position": "WR",
+    "team": "JAX",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2114",
+    "full_name": "Senorise Perry",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "5217",
+    "full_name": "Jason Reese",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12403",
+    "full_name": "Valentino Ambrosio",
+    "position": "K",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7066",
+    "full_name": "K.J. Osborn",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1979",
+    "full_name": "Blake Bortles",
+    "position": "QB",
+    "team": "NO",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8008",
+    "full_name": "Josh Imatorbhebhe",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8475",
+    "full_name": "Montrell Washington",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6762",
+    "full_name": "Darion Clark",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "11921",
+    "full_name": "Xavier Weaver",
+    "position": "WR",
+    "team": "ARI",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "260",
+    "full_name": "Josh Johnson",
+    "position": "QB",
+    "team": "CIN",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2711",
+    "full_name": "Taylor Heinicke",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6857",
+    "full_name": "Collin Johnson",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8182",
+    "full_name": "Chase Allen",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4157",
+    "full_name": "Tarik Cohen",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2003",
+    "full_name": "Bennie Fowler",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12285",
+    "full_name": "Cade Peterson",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7533",
+    "full_name": "Anthony Schwartz",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "7460",
+    "full_name": "Jake Burt",
+    "position": "TE",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1837",
+    "full_name": "Jimmy Garoppolo",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "4528",
+    "full_name": "Trevor Knight",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8259",
+    "full_name": "Cameron Dicker",
+    "position": "K",
+    "team": "LAC",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "10220",
+    "full_name": "Will Mallory",
+    "position": "TE",
+    "team": "IND",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12063",
+    "full_name": "Rocky Lombardi",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13249",
+    "full_name": "Thomas Gordon",
+    "position": "TE",
+    "team": "DET",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "13128",
+    "full_name": "Rushawn Baker",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "9507",
+    "full_name": "Titus Swen",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1939",
+    "full_name": "Derel Walker",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "12434",
+    "full_name": "Kairee Robinson",
+    "position": "RB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8205",
+    "full_name": "Isiah Pacheco",
+    "position": "RB",
+    "team": "DET",
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "2713",
+    "full_name": "Josh Harper",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "6342",
+    "full_name": "Stephen Louis",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "1166",
+    "full_name": "Kirk Cousins",
+    "position": "QB",
+    "team": null,
+    "proj_week1_pts": 0.0
+  },
+  {
+    "player_id": "8108",
+    "full_name": "DeVonte Dedmon",
+    "position": "WR",
+    "team": null,
+    "proj_week1_pts": 0.0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "season": 2024,
+  "num_drafts": 80,
+  "test_frac": 0.2,
+  "test_draft_ids": [
+    "draft_11",
+    "draft_13",
+    "draft_14",
+    "draft_17",
+    "draft_27",
+    "draft_28",
+    "draft_29",
+    "draft_3",
+    "draft_31",
+    "draft_35",
+    "draft_4",
+    "draft_54",
+    "draft_64",
+    "draft_69",
+    "draft_71",
+    "draft_78"
+  ],
+  "top_n": 500,
+  "candidates_k": 60,
+  "rollouts_k": 1,
+  "seed": 42,
+  "pref_lambda": 0.08,
+  "pref_scheme": "per-draft random 6..1 position ranks",
+  "league_settings": {
+    "num_teams": 12,
+    "rounds": 16,
+    "season_weeks": 14,
+    "slot_qb": 1,
+    "slot_rb": 2,
+    "slot_wr": 3,
+    "slot_te": 1,
+    "slot_flex": 1,
+    "slot_k": 1,
+    "slot_def": 1
+  },
+  "feature_count": 34
+}

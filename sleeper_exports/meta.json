@@ -1,0 +1,8 @@
+{
+  "season": 2026,
+  "top_n_target": 500,
+  "selected_count": 500,
+  "mode": "projections_only",
+  "reason": "auto season>=2026",
+  "scoring_sort": "ppr"
+}

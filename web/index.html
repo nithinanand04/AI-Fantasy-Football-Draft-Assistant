@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Draft assistant (local)</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Live draft assistant</h1>
+      <p class="sub">Python server handles Sleeper + model. Open via the server URL (not file://).</p>
+    </header>
+
+    <section>
+      <h2>1. Look up user</h2>
+      <label>Sleeper username <input type="text" id="username" placeholder="sleeperusername" /></label>
+      <button type="button" id="btnUser">Find user</button>
+      <p id="userError" class="msg msg-error" hidden></p>
+      <div id="userOk" class="msg msg-ok" hidden>
+        <p><strong>Connected.</strong> You can load your drafts in the next step.</p>
+        <p class="muted" id="userDisplayLine"></p>
+      </div>
+    </section>
+
+    <section>
+      <h2>2. Drafts</h2>
+      <label>Sport <input type="text" id="sport" value="nfl" /></label>
+      <label>Season <input type="number" id="season" value="2026" /></label>
+      <button type="button" id="btnDrafts" disabled>List drafts</button>
+      <div id="draftList"></div>
+    </section>
+
+    <section>
+      <h2>3. Preferences</h2>
+      <p class="subtext">Rank positions from 1-6 in order of preference (1 = most preferred, 6 = least preferred).</p>
+      <p class="subtext">
+        Risk factor is 0-1. Higher means you are more willing to target higher-variance players
+        (1 = highest risk tolerance, 0 = lowest risk tolerance).
+      </p>
+      <div class="prefs-grid">
+        <label>Risk factor <input type="number" id="prefRisk" value="0.5" step="0.05" min="0" max="1" /></label>
+        <label>QB rank <input type="number" id="rankQb" value="3" min="1" max="6" step="1" /></label>
+        <label>RB rank <input type="number" id="rankRb" value="1" min="1" max="6" step="1" /></label>
+        <label>WR rank <input type="number" id="rankWr" value="2" min="1" max="6" step="1" /></label>
+        <label>TE rank <input type="number" id="rankTe" value="4" min="1" max="6" step="1" /></label>
+        <label>K rank <input type="number" id="rankK" value="5" min="1" max="6" step="1" /></label>
+        <label>DEF rank <input type="number" id="rankDef" value="6" min="1" max="6" step="1" /></label>
+      </div>
+      <p id="prefsError" class="msg msg-error" hidden></p>
+    </section>
+
+    <section>
+      <h2>4. Watch draft</h2>
+      <button type="button" id="btnPoll" disabled>Poll status</button>
+      <label><input type="checkbox" id="autoPoll" /> Auto-poll every 4s</label>
+      <div id="statusHuman" class="msg msg-status" hidden></div>
+    </section>
+
+    <section>
+      <h2>5. Top picks (model)</h2>
+      <button type="button" id="btnRec" disabled>Get recommendations</button>
+      <div id="recTableWrap" hidden></div>
+    </section>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
