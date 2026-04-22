@@ -69,7 +69,14 @@ python3 -m pip install requests
 
 ## 3) How To Run
 
-### A) Download data exports
+### A) Install dependencies
+
+```bash
+python3 -m pip install -r requirements-ui.txt
+python3 -m pip install requests
+```
+
+### B) Download data exports
 
 #### Historical/full mode (example: 2025)
 ```bash
@@ -81,20 +88,32 @@ python3 data_scripts/get_data.py --season 2025 --top-n 500 --season-weeks 14 --m
 python3 data_scripts/get_data.py --season 2026 --top-n 500 --scoring ppr
 ```
 
-### B) Train model (if you do not already have a checkpoint)
+### C) Build training labels (required before training)
+```bash
+python3 data_scripts/label_data.py --season 2025 --scoring ppr --n-drafts 120 --candidates-k 200 --out-dir sleeper_exports
+```
+
+This writes `sleeper_exports/train_rows.jsonl`, `sleeper_exports/test_rows.jsonl`, and label metadata.
+
+### D) Train model (if you do not already have a checkpoint)
 ```bash
 python3 train_model.py --epochs 25 --hidden-dim 128 --lr 1e-3 --weight-decay 1e-5
 ```
 
 This writes `model_mlp.pt` at repo root.
 
-### C) Run API + UI
+### E) Run API + UI
 ```bash
 uvicorn draft_server.app:app --reload --host 127.0.0.1 --port 8787
 ```
 
 Open:
 - `http://127.0.0.1:8787/`
+
+### F) Optional: evaluate with draft simulation
+```bash
+python3 draft_sim.py --season 2026 --scoring ppr --runs 50 --candidates-k 200
+```
 
 ---
 
