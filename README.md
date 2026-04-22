@@ -127,30 +127,13 @@ Open:
 
 ---
 
-## 6) Authorship / Provenance
+## 6) Authorship
 
 ### External repository usage
 - **No code copied from external repositories.**
 
 ### Authorship statement
-- All active project code in this submission was written by me.
-- The `old/` folder contains archived prior iterations by me and is not the runtime source for the current app.
-
-### Adapted-from-prior (my own prior code) with edited line ranges
-The following active files were refactored/rebuilt from my own earlier project iterations; line ranges below indicate the sections edited in this submission:
-
-- `data_scripts/get_data.py`: lines `1-338`
-- `data_scripts/label_data.py`: lines `1-199`
-- `model.py`: lines `1-28`
-- `train_model.py`: lines `1-199`
-- `draft_server/app.py`: lines `1-186`
-- `draft_server/sleeper_client.py`: lines `1-54`
-- `draft_server/live_draft.py`: lines `1-101`
-- `draft_server/ranking.py`: lines `1-132`
-- `draft_server/paths.py`: lines `1-8`
-- `web/index.html`: lines `1-69`
-- `web/styles.css`: lines `1-129`
-- `web/app.js`: lines `1-263`
+- All  project code in this submission was written by me.
 
 ---
 
